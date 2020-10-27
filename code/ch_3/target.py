@@ -24,7 +24,7 @@ WEST = 180
 t = turtle.Turtle()
 
 # Window Setup
-t.setup(SCREEN_WIDTH, SCREEN_HEIGHT)
+turtle.setup(SCREEN_WIDTH, SCREEN_HEIGHT)
 
 # Drawing Target
 t.hideturtle()

@@ -26,4 +26,4 @@ else:
     total
 
 # Displays final total
-print(total)
+print("Final total is: $" + str(total))
