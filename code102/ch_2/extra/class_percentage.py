@@ -1,4 +1,4 @@
-# M&F_Percentages.py
+# class_percentages.py
 
 # Asking user how many of each gender are in the class.
 male = int(input("How many males are in the class? "))
