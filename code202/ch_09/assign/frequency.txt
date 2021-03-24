@@ -1,0 +1,2 @@
+This is a text file. In this text file, all words are going to be numbered to
+find out how many times a certain word was mentioned.
